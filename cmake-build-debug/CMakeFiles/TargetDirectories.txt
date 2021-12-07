@@ -1,0 +1,3 @@
+C:/Users/jser/CLionProjects/X-BOT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jser/CLionProjects/X-BOT/cmake-build-debug/CMakeFiles/X_BOT.dir
+C:/Users/jser/CLionProjects/X-BOT/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jser/CLionProjects/X-BOT/Compteur.h
+
+C:/Users/jser/CLionProjects/X-BOT/X212.cpp
+X212.h
+C:/Users/jser/CLionProjects/X-BOT/X212.h
+
+C:/Users/jser/CLionProjects/X-BOT/X212.h
+string
+-
+Compteur.h
+C:/Users/jser/CLionProjects/X-BOT/Compteur.h
+
